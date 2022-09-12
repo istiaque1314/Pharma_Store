@@ -1,0 +1,17 @@
+C:\Users\issac\OneDrive\Desktop\DotNet\Bank_Medicine\Bank_Medicine\bin\Debug\Bank_Medicine.exe.config
+C:\Users\issac\OneDrive\Desktop\DotNet\Bank_Medicine\Bank_Medicine\bin\Debug\Bank_Medicine.exe
+C:\Users\issac\OneDrive\Desktop\DotNet\Bank_Medicine\Bank_Medicine\bin\Debug\Bank_Medicine.pdb
+C:\Users\issac\OneDrive\Desktop\DotNet\Bank_Medicine\Bank_Medicine\obj\Debug\Bank_Medicine.csproj.AssemblyReference.cache
+C:\Users\issac\OneDrive\Desktop\DotNet\Bank_Medicine\Bank_Medicine\obj\Debug\Bank_Medicine.csproj.SuggestedBindingRedirects.cache
+C:\Users\issac\OneDrive\Desktop\DotNet\Bank_Medicine\Bank_Medicine\obj\Debug\Bank_Medicine.HOME.resources
+C:\Users\issac\OneDrive\Desktop\DotNet\Bank_Medicine\Bank_Medicine\obj\Debug\Bank_Medicine.Properties.Resources.resources
+C:\Users\issac\OneDrive\Desktop\DotNet\Bank_Medicine\Bank_Medicine\obj\Debug\Bank_Medicine.Registration.resources
+C:\Users\issac\OneDrive\Desktop\DotNet\Bank_Medicine\Bank_Medicine\obj\Debug\Bank_Medicine.csproj.GenerateResource.cache
+C:\Users\issac\OneDrive\Desktop\DotNet\Bank_Medicine\Bank_Medicine\obj\Debug\Bank_Medicine.csproj.CoreCompileInputs.cache
+C:\Users\issac\OneDrive\Desktop\DotNet\Bank_Medicine\Bank_Medicine\obj\Debug\Bank_Medicine.exe
+C:\Users\issac\OneDrive\Desktop\DotNet\Bank_Medicine\Bank_Medicine\obj\Debug\Bank_Medicine.pdb
+C:\Users\issac\OneDrive\Desktop\DotNet\Bank_Medicine\Bank_Medicine\obj\Debug\Bank_Medicine.Login_Page1.resources
+C:\Users\issac\OneDrive\Desktop\DotNet\Bank_Medicine\Bank_Medicine\obj\Debug\Bank_Medicine.ForgetPasswordPage.resources
+C:\Users\issac\OneDrive\Desktop\DotNet\Bank_Medicine\Bank_Medicine\obj\Debug\Bank_Medicine.Menu_Page.resources
+C:\Users\issac\OneDrive\Desktop\DotNet\Bank_Medicine\Bank_Medicine\obj\Debug\Bank_Medicine.Invoice.resources
+C:\Users\issac\OneDrive\Desktop\DotNet\Bank_Medicine\Bank_Medicine\obj\Debug\Bank_Medicine.About_Us.resources
