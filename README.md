@@ -12,7 +12,7 @@ ADO.NET is a set of classes that expose data access services for .NET Framework 
 
 
 
-![image](https://user-images.githubusercontent.com/102660203/190656862-e12b6327-80f9-4cc7-866d-d29094fccfc3.png)
+![Desktop - 1](https://user-images.githubusercontent.com/88729010/190669339-f4a6bb82-fabb-4499-84bf-53fac66c9464.png)
 <br>
 
 # <p align="center">  About this Project </p>
